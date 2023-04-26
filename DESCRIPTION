@@ -1,7 +1,7 @@
 Package: checker
 Type: Package
 Title: Checks 'R' Configuration Set Up Correctly Before Class
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: 
   person("Richard J.", "Telford", email = "richard.telford@uib.no",
         role = c("aut", "cre"), 
@@ -17,8 +17,8 @@ Imports: yaml, rstudioapi, cli
 Suggests: quarto, glue
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-03-15 16:03:49 UTC; gbsrt
+Packaged: 2023-04-26 13:02:27 UTC; gbsrt
 Author: Richard J. Telford [aut, cre] (<https://orcid.org/0000-0001-9826-3076>)
 Maintainer: Richard J. Telford <richard.telford@uib.no>
 Repository: CRAN
-Date/Publication: 2023-03-16 11:20:02 UTC
+Date/Publication: 2023-04-26 13:22:30 UTC
